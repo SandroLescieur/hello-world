@@ -1,0 +1,4 @@
+This is my first file here.
+I create a .txt fiel named archivo1
+
+Here I can create code. 
